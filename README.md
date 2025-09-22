@@ -26,7 +26,7 @@ gem5/
 Installation
 
 Clone this repository: 
-git clone something
+git clone (https://github.com/Boogie3586/Assignment-4-Exploring-Instruction-Level-Parallelism-ILP-in-Modern-Processors/blob/main/ilp_exploration.py)
 cd ILP-gem5
 
 Set up gem5 (if not already installed):
